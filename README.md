@@ -1,4 +1,4 @@
 # resume
 My digital resume
 <br>
-https://varathac.github.io/resume/
+https://varathac.github.io/resume/Profile.html
